@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    background-color: aquamarine;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+#navBar{
+    background-color: aquamarine;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul{
+    display: flex;
+    gap: 20px;
+}
+
+.image{
+    width: 40px;
+    height: 40px;
+}
+.body-chu{
+    background-color: aquamarine;
+}
